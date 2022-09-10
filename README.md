@@ -1,4 +1,6 @@
-<p align="center"><a href="https://pmiiunira.lfa-ppa.com" target="_blank"><img src="https://raw.githubusercontent.com/AhmadMuzayyin/SI-dan-Sistem-Blog-PMII-UNIRA/main/public/assets/img/logo_kom.png" width="90"></a>SiBlogger</p>
+<h1 align="center">Aplikasi SiBlogger</h1>
+<p align="center">
+<a href="https://pmiiunira.lfa-ppa.com" target="_blank"><img src="https://raw.githubusercontent.com/AhmadMuzayyin/SI-dan-Sistem-Blog-PMII-UNIRA/main/public/assets/img/logo_kom.png" width="90"></a></p>
 
 <p align="center">
 </p>
